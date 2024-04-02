@@ -2,10 +2,10 @@
 A personal project to develop skills in JS and launching a full packaged app. 
 
 I dont have a streamlined process for this, and dont know where to start but ive just been going at it.
------------------------------------------------------------------------------------------------------------
+
 **The Systems are to be the following.**
-    GUI:
-				The GUI needs to be responsive to multiple device sizes including mobile. 
+   		 GUI:
+			The GUI needs to be responsive to multiple device sizes including mobile. 
 			  GUI should be clean and not distracting from the tools and software in place.
 		 	  GUI remains "static" and the viewport within the application will be changing depoending on tool used.
 		Data Storage: 
@@ -31,6 +31,5 @@ I dont have a streamlined process for this, and dont know where to start but ive
 
 		These tools are just to start, as its the core of the app. More will be added over time as the framework for the app is more finalized.
 
-===================================================================================================================
- ~Not for Commercial use by parties larger than 1 person. This is mean to be free for freelancers, and is to be paid if the business using my software is more than a single developer.~
+ Not for Commercial use by parties larger than 1 person. This is mean to be free for freelancers, and is to be paid if the business using my software is more than a single developer.
 							
