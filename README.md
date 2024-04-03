@@ -14,7 +14,7 @@ I dont have a streamlined process for this, and dont know where to start but ive
 				All data will be handled server-side.
 		Analytics Reporting:
 				Reports different stats for tickets.
-				[Rate of issues, amount per category, IP address capture, time sent/received]
+				Rate of issues, amount per category, IP address capture, time sent/received
 				
 		Security:
 				I dont know how to secure my applications. 	
